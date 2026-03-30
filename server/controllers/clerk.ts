@@ -52,7 +52,7 @@ const clerkWebhooks = async (req: Request, res: Response) => {
                         return res.status(400).json({ message: "Invalid plan" })
                     }
                     console.log(planId)
-                    console.log("Updating credits for user:", clerkUserId,+" ",+,credits[planId])
+                    console.log("Updating credits for user:", clerkUserId, credits[planId])
                     await prisma.user.update({
                         where: { id: clerkUserId, },
                         data: {
