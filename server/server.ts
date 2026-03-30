@@ -18,7 +18,11 @@ const corsOptions = {
 };
 
 // Middleware
-app.use(cors(corsOptions))
+// app.use(cors(corsOptions))
+app.use(cors({
+  origin: '*', 
+  credentials: true 
+}));
 
 app.post('/api/clerk', express.raw({ type: 'application/json' }), clerkWebhooks)
 
