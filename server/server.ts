@@ -14,7 +14,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 const corsOptions = {
-  origin: 'https://friendly-grace-production-6569.up.railway.app', // Only allow this origin
+  origin: 'https://friendly-exploration-production-e98a.up.railway.app', // Only allow this origin
 };
 
 // Middleware
