@@ -7,6 +7,14 @@
 ## 🔗 Live Demo
 
 **Experience the app live here:** [https://friendly-exploration-production-e98a.up.railway.app](https://friendly-exploration-production-e98a.up.railway.app)
+Home Page
+<img width="1305" height="646" alt="Screenshot from 2026-03-31 13-51-02" src="https://github.com/user-attachments/assets/5118e396-c370-47f0-86a8-cfad25493e7a" />
+Generation Page
+<img width="1305" height="646" alt="Screenshot from 2026-03-31 13-51-24" src="https://github.com/user-attachments/assets/f19206ab-91d9-4f39-a6da-3f646aaef3e9" />
+Community Page
+<img width="1305" height="646" alt="Screenshot from 2026-03-31 13-51-48" src="https://github.com/user-attachments/assets/8613f9d9-6e58-4527-a37e-101abeaede13" />
+My Generation Page, you can publish and unpublish your project to community
+<img width="659" height="567" alt="Screenshot from 2026-03-31 13-53-02" src="https://github.com/user-attachments/assets/b7f66272-bf97-4580-a8d4-1290bbdf3794" />
 
 -----
 
