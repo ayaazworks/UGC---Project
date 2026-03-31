@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-**Experience the app live here:** [https://friendly-grace-production-6569.up.railway.app/](https://friendly-grace-production-6569.up.railway.app/)
+**Experience the app live here:** [https://friendly-exploration-production-e98a.up.railway.app](https://friendly-exploration-production-e98a.up.railway.app)
 
 -----
 
