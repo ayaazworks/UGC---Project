@@ -4,6 +4,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+**Experience the app live here:** [https://friendly-exploration-production-e98a.up.railway.app](https://friendly-exploration-production-e98a.up.railway.app)
+
+-----
+
 ## 🚀 Features
 
 * **AI Generation**: Seamless integration with Google Gemini AI for intelligent content creation.
@@ -113,5 +119,3 @@ cd UGC---Project
 
 ## 📄 License
 This project is licensed under the **ISC License**.
-
----
