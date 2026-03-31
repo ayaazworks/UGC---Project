@@ -56,9 +56,9 @@ cd UGC---Project
    DIRECT_URL="your_direct_url"
    CLERK_PUBLISHABLE_KEY="your_clerk_pub_key"
    CLERK_SECRET_KEY="your_clerk_secret_key"
+   CLERK_WEBHOOK_SIGNING_SECRET="your_clerk_webhook_signing_secret"
    CLOUDINARY_URL="your_cloudinary_url"
    GOOGLE_CLOUD_API_KEY="your_gemini_api_key"
-   SENTRY_DSN="your_sentry_dsn"
    ```
 4. Initialize Prisma:
    ```bash
@@ -81,7 +81,7 @@ cd UGC---Project
 3. Create a `.env` file:
    ```env
    VITE_CLERK_PUBLISHABLE_KEY="your_clerk_pub_key"
-   VITE_SERVER_URL="your_backend_url"
+   VITE_BASEURL="your_backend_url"
    ```
 4. Start the development server:
    ```bash
@@ -115,5 +115,3 @@ cd UGC---Project
 This project is licensed under the **ISC License**.
 
 ---
-
-**Would you like me to add a "Troubleshooting" section or a more detailed deployment guide for Railway?**
