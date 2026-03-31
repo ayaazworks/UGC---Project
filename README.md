@@ -7,6 +7,7 @@
 ## 🔗 Live Demo
 
 **Experience the app live here:** [https://friendly-exploration-production-e98a.up.railway.app](https://friendly-exploration-production-e98a.up.railway.app)
+
 Home Page
 <img width="1305" height="646" alt="Screenshot from 2026-03-31 13-51-02" src="https://github.com/user-attachments/assets/5118e396-c370-47f0-86a8-cfad25493e7a" />
 Generation Page
